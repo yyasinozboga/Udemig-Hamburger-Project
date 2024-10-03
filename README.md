@@ -1,9 +1,24 @@
-# React + Vite
+# Udemig Hamburger Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project was created by Yasin Özboğa.
+This project was created with React.js, JavaScript and CSS3.
+Navbar and responsive styling were used for increase experience of the users and useful all devices. The products by in card form and photo, price, name and details of the products are available.
 
-Currently, two official plugins are available:
+## Used Libraries
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# Udemig-Hamburger-Project
+```
+react-icons react-router-dom @mui/material
+```
+
+## Features
+
+- **Fully Responsive**
+- **Available Navbar**
+
+# Start the project
+
+- `npm run dev`
+
+## Preview
+
+<img src="/public/assets/simsizvideoClipchampileyapld2-ezgif.com-video-to-gif-converter.gif">
